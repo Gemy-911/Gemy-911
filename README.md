@@ -9,4 +9,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="25%"/>
 
   - :man_technologist: I'm Computer Science Student At El-Shorouk Academy .
-  - :video_game: I hope to be Game Developer .
+  - :Laptop: I hope to be Software Engineer .
